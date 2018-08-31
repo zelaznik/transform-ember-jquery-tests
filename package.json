@@ -1,0 +1,11 @@
+{
+  "name": "transform-ember-jquery-tests",
+  "version": "1.0.0",
+  "description": "Gets rid of the \"this.$\" constructors in the Ember test suite",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Zelaznik",
+  "license": "MIT"
+}
